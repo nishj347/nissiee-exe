@@ -3,8 +3,7 @@
 A modern developer portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 
 Feel free to fork it, clone it, break it, improve it, and pretend you built it from scratch (just kidding... mostly).
-live link: 
-nissiee-exe.vercel.app
+🚀 **Live Demo:** https://nissiee-exe.vercel.app
 
 ## ✨ Features
 
